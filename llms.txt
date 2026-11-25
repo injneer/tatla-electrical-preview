@@ -1,0 +1,16 @@
+# Tatla Electrical Ltd.
+
+> Electrical and low voltage contractor based in Delta, British Columbia, serving residential, commercial and tenant improvement projects.
+
+## Services
+- [Residential Electrical](https://tatlaelectrical.com/residential.html): Wiring, upgrades, lighting and repairs for homes, from new builds and renovations to basement suites.
+- [Commercial Electrical](https://tatlaelectrical.com/commercial.html): Electrical for retail, office and light-industrial spaces: power distribution, lighting and equipment.
+- [Tenant Improvement](https://tatlaelectrical.com/tenant-improvement.html): Electrical fit-outs for new and changing tenant spaces, coordinated with your contractor and designer.
+- [Low Voltage](https://tatlaelectrical.com/low-voltage.html): Data, security, access control and audio/video cabling for homes and businesses.
+
+## Contact
+- Phone: 604-907-8000
+- Email: raj@tatlaelectrical.com
+- Address: 808 Glenwood Drive, Delta, BC V4M 2J9
+- Instagram: https://www.instagram.com/tatla.electrical/
+- LinkedIn: https://www.linkedin.com/in/raj-tatla-79773b227/
